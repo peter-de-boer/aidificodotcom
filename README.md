@@ -1,6 +1,6 @@
 This is the source code of my website aidifico.com.
 
-It is based on the theme template from [startbootstrap-freelancer](https://github.com/BlackrockDigital/startbootstrap-freelancer)
+It is based on the [startbootstrap-freelancer](https://github.com/BlackrockDigital/startbootstrap-freelancer) template.
 This theme features several content sections, a responsive portfolio grid, window modals for each portfolio item, and a working PHP contact form.
 
 ## Preview
