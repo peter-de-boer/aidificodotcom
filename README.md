@@ -7,6 +7,5 @@ This theme features several content sections, a responsive portfolio grid, windo
 
 [![Website Preview](https://github.com/peter-de-boer/aidificodotcom/blob/master/img/screenshot.png)](https://www.aidifico.com/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
-https://www.aidifico.com/
+
 
